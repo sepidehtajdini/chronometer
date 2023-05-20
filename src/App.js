@@ -1,5 +1,5 @@
-import SavedTime from "./12/SavedTime";
-import Home from "./12/Home/Home";
+import SavedTime from "./Main/SavedTime";
+import Home from "./Main/Home/Home";
 import { RouterProvider, createBrowserRouter } from "react-router-dom";
 const router = createBrowserRouter(
   [{
